@@ -10,7 +10,7 @@
     * [AI meta data generation](aedifion.io/data/ai-meta-data-generation.md)
   * [Integrations](aedifion.io/integrations/README.md)
 	* [Excel](aedifion.io/integrations/README.md)
-      * [Login](aedifion.io/integrations/README.md)
+      * [Login](aedifion.io/integrations/excel/login.md)
 	  * [Settings](aedifion.io/integrations/README.md)
 	  * [Get Datapoints](aedifion.io/integrations/README.md)
 	  * [Read Data](aedifion.io/integrations/README.md)
